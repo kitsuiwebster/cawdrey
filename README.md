@@ -27,7 +27,3 @@ python3 cawdrey.py
 ```
 
 **Note**: Generating words with large lengths and/or charsets can take a considerable amount of time and disk space. Be aware of this before starting the operation.
-
-## Preview
-
-![Preview Image](preview.png)
