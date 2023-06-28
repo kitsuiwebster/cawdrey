@@ -1,4 +1,8 @@
-# How to use Cawdrey
+# Cawdrew
+
+## Purpose
+
+This script is designed to generate all possible permutations of a user-defined set of characters, within a user-defined length range. The purpose of this script could be to create a list of all possible words, which can be used for purposes such as password cracking, testing, or similar applications where such a comprehensive list might be useful.
 
 ## Prerequisites
 
