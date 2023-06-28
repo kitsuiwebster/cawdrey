@@ -1,3 +1,6 @@
+# @name: Cawdrey
+# @author: kitsuiwebster
+
 import itertools
 import threading
 import time
