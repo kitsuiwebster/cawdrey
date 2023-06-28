@@ -12,7 +12,15 @@ You need to install `yaspin`, a terminal spinner library for Python. Open your t
 pip install yaspin
 ```
 
-## Run the Script
+## Install and run the script
+
+```bash
+git clone https://gitlab.com/kitsuiwebster/cawdrey.git
+```
+
+```bash
+cd cawdrey
+```
 
 ```bash
 python3 cawdrey.py
