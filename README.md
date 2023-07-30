@@ -26,8 +26,7 @@ git clone https://gitlab.com/kitsuiwebster/cawdrey.git
 cd cawdrey
 ```
 
-```bash
-python3 cawdrey.py
-```
+`python3 cawdrew.py` or `python cawdrew.py`
+
 
 **Note**: Generating words with large lengths and/or charsets can take a considerable amount of time and disk space. Be aware of this before starting the operation.
