@@ -6,7 +6,31 @@ This script is designed to generate all possible permutations of a user-defined 
 
 ## Prerequisites
 
+### Python
+
 Ensure you have Python 3.6 or higher installed. You can download Python from the official site: [Download Python](https://www.python.org/downloads/)
+
+### Pip
+
+Windows:
+
+`python get-pip.py`
+
+Debian/Ubuntu:
+
+`sudo apt install python3-pip`
+
+Fedora:
+
+`sudo dnf install python3-pip`
+
+CentOS:
+
+`sudo yum install python3-pip`
+
+Arch Linux:
+
+`sudo pacman -S python-pip`
 
 ## Installing Dependencies
 
@@ -26,7 +50,13 @@ git clone https://gitlab.com/kitsuiwebster/cawdrey.git
 cd cawdrey
 ```
 
-`python3 cawdrew.py` or `python cawdrew.py`
+Windows:
+
+`python cwadrew.py`
+
+Linux: 
+
+`python3 cawdrew.py`
 
 
 **Note**: Generating words with large lengths and/or charsets can take a considerable amount of time and disk space. Be aware of this before starting the operation.
