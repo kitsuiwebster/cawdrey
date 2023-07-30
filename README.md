@@ -1,4 +1,4 @@
-# Cawdrew
+# Cawdrey
 
 ## Purpose
 
@@ -52,11 +52,11 @@ cd cawdrey
 
 Windows:
 
-`python cwadrew.py`
+`python cwadrey.py`
 
 Linux: 
 
-`python3 cawdrew.py`
+`python3 cawdrey.py`
 
 
 **Note**: Generating words with large lengths and/or charsets can take a considerable amount of time and disk space. Be aware of this before starting the operation.
